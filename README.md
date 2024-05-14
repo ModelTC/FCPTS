@@ -14,3 +14,9 @@ cd FCPTS
 # modify run.sh
 bash run.sh
 ```
+
+The core code:
+```
+class FCPTSMaskGenerator in msbench/mask_generator.py
+class SparsityConstrain in FCPTS/main.py
+```
