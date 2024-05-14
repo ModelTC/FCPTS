@@ -1,8 +1,7 @@
 #!/bin/bash
 
-msb=/mnt/cache/yongyang/project/pts/exp2/sparsity
+msb=/path to msbench
 
-export MKL_THREADING_LAYER=GNU
 export PYTHONPATH=$msb:$PYTHONPATH
 
 gpus=1
