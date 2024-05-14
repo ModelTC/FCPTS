@@ -4,6 +4,7 @@ This is the official implementation of "Fast and Controllable Post-training Spar
 
 The paper link is : [FCPTS](https://arxiv.org/abs/2405.05808)
 
+The repo depends on [msbench](https://github.com/ModelTC/msbench)
 
 ## start
 
